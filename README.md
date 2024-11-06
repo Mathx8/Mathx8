@@ -4,7 +4,7 @@
 
 - 💻 **Cursando Sistemas de Informação** na Faculdade Impacta
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [🚧]()
+- 👨‍💻 Todos os meus projetos estão disponíveis em [🚧](#)
 
 - 🌱 No momento, estou aprendendo **Python, React e TypeScript**
 
