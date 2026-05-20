@@ -1,29 +1,26 @@
-<h1 align="center">Olá 👋, Eu sou Matheus de Queiroz Mendanha</h1>
-<h3 align="center">Sou um jovem à procura uma oportunidade de colaborar em projetos inovadores e me desenvolver profissionalmente na área tecnológica.</h3>
+<h1 align="center">👋 Olá, eu sou Matheus de Queiroz Mendanha</h1>
+<h3 align="center">Desenvolvedor em formação apaixonado por tecnologia, criação de projetos e experiências digitais modernas.</h3>
 <br />
 
 - 💻 **Cursando Sistemas de Informação** na Faculdade Impacta
 
 - 👨‍💻 Meus projetos estão disponíveis em [mathx8.com.br](https://www.mathx8.com.br/)
 
-- 🌱 No momento, estou aprendendo **Python, React e TypeScript**
+- 🌱 No momento, estou aprendendo **Ruby e Angular**
 
 - 📫 Você pode entrar em contato comigo através de: **matheusqueirozdev@gmail.com**
 
-- ⚡ Aficionado por jogos de **FPS e Battle Royale**
+- ⚡ Aficionado por **Futebol** e jogos de **FPS e Battle Royale**
 <br />
+
 <h1 align="left">🛠 Linguagens e Ferramentas:</h1>
-<div align="left" style="display: flex; gap: 1rem; margin-left: 2.6rem">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,java,cs,ruby,javascript,typescript,angular,react,nextjs,nodejs,tailwind,supabase,aws,docker,git" />
 </div>
 
+<br />
 
-<h1 align="left">🔥 Stats</h1>
-
+<h1 align="left">📊 GitHub Stats:</h1>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mathx8&theme=holi" alt="Profile Details" width="100%" />
   
